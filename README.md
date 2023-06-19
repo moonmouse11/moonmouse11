@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-https://www.codewars.com/users/moonmouse/badges/small
+I'm a junior fullstack developer.
+
+![CodeKata](https://www.codewars.com/users/moonmouse/badges/small)
 
 <!--
 **moonmouse11/moonmouse11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
