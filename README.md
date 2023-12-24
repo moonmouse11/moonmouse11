@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a junior fullstack developer.
+I'm a fullstack developer.
+
+Write PHP, JS & Go code.
 
 ![CodeKata](https://www.codewars.com/users/moonmouse/badges/small)
 
