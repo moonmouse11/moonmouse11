@@ -2,7 +2,9 @@
 
 I'm a fullstack developer.
 
-Write PHP, JS & Go code.
+Write PHP, JS & Java code.
+
+Love in Laravel & Symfony.
 
 ![CodeKata](https://www.codewars.com/users/moonmouse/badges/small)
 
