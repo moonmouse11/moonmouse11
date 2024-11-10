@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a fullstack developer.
+I'm a backend developer.
 
 Write PHP, JS & Java code.
 
