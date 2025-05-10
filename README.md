@@ -2,11 +2,12 @@
 
 I'm a backend developer.
 
-Write PHP, JS & Java code.
+Write PHP, JS, Go, Python & Java code.
 
 Love in Laravel & Symfony.
 
 ![CodeKata](https://www.codewars.com/users/moonmouse/badges/small)
+
 
 <!--
 **moonmouse11/moonmouse11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
