@@ -16,7 +16,6 @@ Write **Go**, **Python**, **PHP** and **JS** code.
 - 🔭 Backend / APIs / tooling
 - 🌱 Currently exploring DevOps & infrastructure
 - 💬 Ask me about Go, Python, PHP, JS
-- ⚡ Fun fact: I customize my Neovim setup ([nvim-config](https://github.com/moonmouse11/nvim-config))
 
 ---
 
